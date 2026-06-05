@@ -12,7 +12,7 @@ A collection of Python exercises, algorithms, and programming concepts created d
 
 ## About
 
-This repository was created by me to strengthen my Python fundamentals, improve problem-solving skills, and practice algorithmic thinking through hands-on exercises and mini projects.
+This repository was created by me to strengthen my Python fundamentals, improve problem-solving skills, and gain practical programming experience through hands-on exercises and mini projects.
 
 ---
 
@@ -66,6 +66,8 @@ This repository is inspired by learning materials and programming exercises from
 
 - Python Documentation
 - Python Crash Course by Eric Matthes
+- GeeksforGeeks
+- LeetCode
 
 ---
 
